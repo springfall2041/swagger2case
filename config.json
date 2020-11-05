@@ -1,0 +1,9 @@
+{
+  "mall": {
+    "url": "https://host:port/mall/v2/api-docs",
+    "prefix": "/mall",
+    "parameter_key": "phoneNumber-verifyCode",
+    "parameter_value": "${parameterize(common.csv)}",
+    "only": []
+  }
+}
